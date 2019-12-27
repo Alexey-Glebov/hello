@@ -1,1 +1,2 @@
 New sring
+Hello, Git!
